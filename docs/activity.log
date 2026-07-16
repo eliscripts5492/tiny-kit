@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-07-15T16:13:08Z
-Entry: fix: handle edge case when incoming data payload is empty
-Sequence: 64/93
+Last updated: 2026-07-16T16:26:31Z
+Entry: docs: add architecture diagram and sequence notes to README
+Sequence: 65/93
